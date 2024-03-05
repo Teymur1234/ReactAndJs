@@ -1,0 +1,6 @@
+.card{
+    width: max-content;
+    height: max-content;
+    padding: 30px;
+    border: 1px solid black;
+}
